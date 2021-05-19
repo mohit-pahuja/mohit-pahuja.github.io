@@ -4,120 +4,120 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://mohitp1896.github.io/</loc>
-<lastmod>2021-05-19T23:15:13-00:00</lastmod>
+<loc>http://mohit-pahuja.github.io/</loc>
+<lastmod>2021-05-20T00:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/tags.html</loc>
-<lastmod>2021-05-19T23:15:13-00:00</lastmod>
+<loc>http://mohit-pahuja.github.io/tags.html</loc>
+<lastmod>2021-05-20T00:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/categories.html</loc>
-<lastmod>2021-05-19T23:15:13-00:00</lastmod>
+<loc>http://mohit-pahuja.github.io/categories.html</loc>
+<lastmod>2021-05-20T00:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/authors.html</loc>
-<lastmod>2021-05-19T23:15:13-00:00</lastmod>
+<loc>http://mohit-pahuja.github.io/authors.html</loc>
+<lastmod>2021-05-20T00:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/archives.html</loc>
-<lastmod>2021-05-19T23:15:13-00:00</lastmod>
+<loc>http://mohit-pahuja.github.io/archives.html</loc>
+<lastmod>2021-05-20T00:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/pages/about/</loc>
-<lastmod>2021-05-19T23:00:03+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/pages/about/</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/2015/11/featured-images-for-the-detail-view.html</loc>
-<lastmod>2021-05-19T23:15:01+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/2015/11/featured-images-for-the-detail-view.html</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/2015/11/featured-color-header-view.html</loc>
-<lastmod>2021-05-19T23:00:03+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/2015/11/featured-color-header-view.html</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/2015/11/headlines-blockquotes-images.html</loc>
-<lastmod>2021-05-19T23:00:03+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/2015/11/headlines-blockquotes-images.html</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/2015/11/lists-and-tables.html</loc>
-<lastmod>2021-05-19T23:00:03+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/2015/11/lists-and-tables.html</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/2015/11/code-blocks.html</loc>
-<lastmod>2021-05-19T23:00:03+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/2015/11/code-blocks.html</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/2015/11/welcome-to-ghost.html</loc>
-<lastmod>2021-05-19T23:00:03+05:30</lastmod>
+<loc>http://mohit-pahuja.github.io/2015/11/welcome-to-ghost.html</loc>
+<lastmod>2021-05-19T23:59:57+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/category/misc</loc>
-<lastmod>2021-05-19T23:15:01+05:53</lastmod>
+<loc>http://mohit-pahuja.github.io/category/misc</loc>
+<lastmod>2021-05-19T23:59:57+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/tag/general</loc>
-<lastmod>2021-05-19T23:15:01+05:53</lastmod>
+<loc>http://mohit-pahuja.github.io/tag/general</loc>
+<lastmod>2021-05-19T23:59:57+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/tag/cupcake</loc>
-<lastmod>2021-05-19T23:00:03+05:53</lastmod>
+<loc>http://mohit-pahuja.github.io/tag/cupcake</loc>
+<lastmod>2021-05-19T23:59:57+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/tag/getting-started</loc>
-<lastmod>2021-05-19T23:00:03+05:53</lastmod>
+<loc>http://mohit-pahuja.github.io/tag/getting-started</loc>
+<lastmod>2021-05-19T23:59:57+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mohitp1896.github.io/author/zutrinken</loc>
-<lastmod>2021-05-19T23:15:01+05:53</lastmod>
+<loc>http://mohit-pahuja.github.io/author/zutrinken</loc>
+<lastmod>2021-05-19T23:59:57+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
