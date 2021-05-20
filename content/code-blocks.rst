@@ -3,7 +3,7 @@ Code Blocks
 :date: 2015-11-01 00:45
 :author: zutrinken
 :tags: General
-:slug: code-blocks
+:slug: code-block
 
 Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
 Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear

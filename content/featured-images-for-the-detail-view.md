@@ -9,7 +9,7 @@ og_image: assets/images/4BQLVS45VD.jpg
 
 * * *
 
-# Headline 1 (TEst Update)
+# Headline 1 (Test Update)
 
 ## Headline 2
 

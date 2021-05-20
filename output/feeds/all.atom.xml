@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="https://mohit-pahuja.github.io/" rel="alternate"></link><link href="https://mohit-pahuja.github.io/feeds/all.atom.xml" rel="self"></link><id>https://mohit-pahuja.github.io/</id><updated>2021-05-19T23:59:57+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Featured Images for the detail View</title><link href="https://mohit-pahuja.github.io/2015/11/featured-images-for-the-detail-view.html" rel="alternate"></link><published>2015-11-20T21:54:00+05:30</published><updated>2021-05-19T23:59:57+05:30</updated><author><name>zutrinken</name></author><id>tag:mohit-pahuja.github.io,2015-11-20:/2015/11/featured-images-for-the-detail-view.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Hi there and welcome to Attila - theme for the blogging platform &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;. Attila is open source and can be found on &lt;a href="https://github.com/arulrajnet/attila"&gt;GitHub&lt;/a&gt;. This article is just a demo post and shows you the style of common used elements.&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="https://mohit-pahuja.github.io/" rel="alternate"></link><link href="https://mohit-pahuja.github.io/feeds/all.atom.xml" rel="self"></link><id>https://mohit-pahuja.github.io/</id><updated>2021-05-20T20:55:23+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>Zero to Hero in Data Science</title><link href="https://mohit-pahuja.github.io/2021/03/ds-learning-path.html" rel="alternate"></link><published>2021-03-20T00:00:00+05:30</published><updated>2021-05-20T20:55:23+05:30</updated><author><name>Mohit Pahuja and Abhishek Dutt</name></author><id>tag:mohit-pahuja.github.io,2021-03-20:/2021/03/ds-learning-path.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Beginners often ask me questions about how to get started in the field of data science&lt;/strong&gt; or machine learning, and I would end up sharing with them my own learning path, and it worked every time! It would save them lots of time wasted in exploring courses that were bad …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;Beginners often ask me questions about how to get started in the field of data science&lt;/strong&gt; or machine learning, and I would end up sharing with them my own learning path, and it worked every time! It would save them lots of time wasted in exploring courses that were bad, tutorials that were not clear and guides that just didn't work!&lt;/p&gt;
+&lt;p&gt;In this article, I'm going to share with you &lt;strong&gt;step by step method on how you can land a job in data science&lt;/strong&gt; in matter of few months!&lt;/p&gt;
+&lt;h3&gt;1: Understand The Industry!&lt;/h3&gt;
+&lt;p&gt;Data Science is all about data. We can use data to extract information, to &lt;strong&gt;find insights&lt;/strong&gt;, to &lt;strong&gt;make future predictions&lt;/strong&gt;, or to &lt;strong&gt;build smart algorithms&lt;/strong&gt; such as for translating between different languages! Once you know what data science or machine learning is all about, you can delve deep into the courses to build a solid foundation.&lt;/p&gt;
+&lt;h3&gt;2: Learn To Code!&lt;/h3&gt;
+&lt;p&gt;Your first and foremost duty should be learn how to do code! It can't get simpler than that. The de-facto language for doing data science is Python. You should &lt;strong&gt;learn not only how to code, but also to code efficiently&lt;/strong&gt;! Having good knowlegde of databases helps a lot.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course #1:&lt;/strong&gt; &lt;a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x"&gt;CS50: Introduction to Computer Science on EdX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course #2:&lt;/strong&gt; &lt;a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/"&gt;Introduction to Data Structures and Algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course #3:&lt;/strong&gt; &lt;a href="rnao"&gt;Introduction to Databases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Other than these, you should also learn about the latest technologies being used in the industry. Don't worry, learning these is going to be super easy!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Git and Github&lt;/li&gt;
+&lt;li&gt;IDEs and Text Editors&lt;/li&gt;
+&lt;li&gt;Python Programming Language&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h1&gt;Headline 1 (TEst Update)&lt;/h1&gt;
+&lt;h3&gt;2: Learn The Mathematics!&lt;/h3&gt;
+&lt;p&gt;The second step is to learn the &lt;strong&gt;prerequisties to understand the machine learning algorithms&lt;/strong&gt;. It includes the basics of probability theory, high school calculus and lots of linear algebra !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course #1:&lt;/strong&gt; &lt;a href="link"&gt;Introduction to Probability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course #2:&lt;/strong&gt; &lt;a href="link"&gt;MIT's Linear Algebra&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;3: Learn ML Algorithms!&lt;/h3&gt;
+&lt;p&gt;This is the most fun part, where you will &lt;strong&gt;learn the machine learning alorithms&lt;/strong&gt; used to build smart software such as face recognition or speech-to-text!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Course #1:&lt;/strong&gt; &lt;a href="link"&gt;Stanford's CS229&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course #2:&lt;/strong&gt; &lt;a href="link"&gt;Tom Mitchell's PhD Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course #3:&lt;/strong&gt; &lt;a href="link"&gt;Computer Vision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course #4:&lt;/strong&gt; &lt;a href="link"&gt;Natural Language Processing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4: Prepare For Interviews!&lt;/h3&gt;
+&lt;p&gt;Well, preparing for the interviews is also a big effort. But these are basic things you must do in order to land a job!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build a resume&lt;/li&gt;
+&lt;li&gt;Do Data Science Projects&lt;/li&gt;
+&lt;li&gt;Get Referrals!&lt;/li&gt;
+&lt;/ul&gt;</content><category term="blog"></category><category term="Machine Learning"></category><category term="AI"></category></entry><entry><title>Featured Images for the detail View</title><link href="https://mohit-pahuja.github.io/2015/11/featured-images-for-the-detail-view.html" rel="alternate"></link><published>2015-11-20T21:54:00+05:30</published><updated>2021-05-20T20:07:33+05:30</updated><author><name>zutrinken</name></author><id>tag:mohit-pahuja.github.io,2015-11-20:/2015/11/featured-images-for-the-detail-view.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Hi there and welcome to Attila - theme for the blogging platform &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;. Attila is open source and can be found on &lt;a href="https://github.com/arulrajnet/attila"&gt;GitHub&lt;/a&gt;. This article is just a demo post and shows you the style of common used elements.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Headline 1 (Test Update)&lt;/h1&gt;
 &lt;h2&gt;Headline 2&lt;/h2&gt;
 &lt;h3&gt;Headline 3&lt;/h3&gt;
 &lt;h4&gt;Headline 4&lt;/h4&gt;
 &lt;hr&gt;
 &lt;p&gt;Bear claw …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;Hi there and welcome to Attila - theme for the blogging platform &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;. Attila is open source and can be found on &lt;a href="https://github.com/arulrajnet/attila"&gt;GitHub&lt;/a&gt;. This article is just a demo post and shows you the style of common used elements.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1&gt;Headline 1 (TEst Update)&lt;/h1&gt;
+&lt;h1&gt;Headline 1 (Test Update)&lt;/h1&gt;
 &lt;h2&gt;Headline 2&lt;/h2&gt;
 &lt;h3&gt;Headline 3&lt;/h3&gt;
 &lt;h4&gt;Headline 4&lt;/h4&gt;
@@ -270,7 +310,7 @@ sweet roll sweet sugar plum donut.&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-</content><category term="misc"></category><category term="General"></category></entry><entry><title>Code Blocks</title><link href="https://mohit-pahuja.github.io/2015/11/code-blocks.html" rel="alternate"></link><published>2015-11-01T00:45:00+05:30</published><updated>2021-05-19T23:59:57+05:30</updated><author><name>zutrinken</name></author><id>tag:mohit-pahuja.github.io,2015-11-01:/2015/11/code-blocks.html</id><summary type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
+</content><category term="misc"></category><category term="General"></category></entry><entry><title>Code Blocks</title><link href="https://mohit-pahuja.github.io/2015/11/code-block.html" rel="alternate"></link><published>2015-11-01T00:45:00+05:30</published><updated>2021-05-20T18:59:58+05:30</updated><author><name>zutrinken</name></author><id>tag:mohit-pahuja.github.io,2015-11-01:/2015/11/code-block.html</id><summary type="html">&lt;p&gt;Wafer gummies lollipop pastry cotton candy chocolate cake sweet roll.
 Cupcake caramels brownie gummi bears. Sweet fruitcake chocolate bear
 claw cake liquorice bear claw lemon drops cheesecake. Sweet sesame snaps
 pie halvah.&lt;/p&gt;
