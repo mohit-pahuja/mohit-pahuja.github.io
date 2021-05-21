@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2021-05-21T19:59:15-00:00</lastmod>
+<lastmod>2021-05-21T20:24:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2021-05-21T19:59:15-00:00</lastmod>
+<lastmod>2021-05-21T20:24:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2021-05-21T19:59:15-00:00</lastmod>
+<lastmod>2021-05-21T20:24:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2021-05-21T19:59:15-00:00</lastmod>
+<lastmod>2021-05-21T20:24:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2021-05-21T19:59:15-00:00</lastmod>
+<lastmod>2021-05-21T20:24:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,27 +62,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/2015/11/featured-color-header-view.html</loc>
 <lastmod>2021-05-19T23:59:57+05:30</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/headlines-blockquotes-images.html</loc>
-<lastmod>2021-05-19T23:59:57+05:30</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/lists-and-tables.html</loc>
-<lastmod>2021-05-19T23:59:57+05:30</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/code-block.html</loc>
-<lastmod>2021-05-20T18:59:58+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -125,13 +104,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/tag/general</loc>
 <lastmod>2021-05-20T20:07:33+05:53</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/cupcake</loc>
-<lastmod>2021-05-19T23:59:57+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
