@@ -4,84 +4,84 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://mohit-pahuja.github.io/</loc>
-<lastmod>2021-05-22T03:09:23-00:00</lastmod>
+<loc>https://www.insidedataworld.com/</loc>
+<lastmod>2021-05-22T03:12:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/tags.html</loc>
-<lastmod>2021-05-22T03:09:23-00:00</lastmod>
+<loc>https://www.insidedataworld.com/tags.html</loc>
+<lastmod>2021-05-22T03:12:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/categories.html</loc>
-<lastmod>2021-05-22T03:09:23-00:00</lastmod>
+<loc>https://www.insidedataworld.com/categories.html</loc>
+<lastmod>2021-05-22T03:12:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/authors.html</loc>
-<lastmod>2021-05-22T03:09:23-00:00</lastmod>
+<loc>https://www.insidedataworld.com/authors.html</loc>
+<lastmod>2021-05-22T03:12:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/archives.html</loc>
-<lastmod>2021-05-22T03:09:23-00:00</lastmod>
+<loc>https://www.insidedataworld.com/archives.html</loc>
+<lastmod>2021-05-22T03:12:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/pages/about/</loc>
+<loc>https://www.insidedataworld.com/pages/about/</loc>
 <lastmod>2021-05-22T00:48:13+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/2021/03/ds-learning-path.html</loc>
+<loc>https://www.insidedataworld.com/2021/03/ds-learning-path.html</loc>
 <lastmod>2021-05-22T02:53:42+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/category/blog</loc>
+<loc>https://www.insidedataworld.com/category/blog</loc>
 <lastmod>2021-05-22T02:53:42+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/tag/machine-learning</loc>
+<loc>https://www.insidedataworld.com/tag/machine-learning</loc>
 <lastmod>2021-05-22T02:53:42+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/tag/ai</loc>
+<loc>https://www.insidedataworld.com/tag/ai</loc>
 <lastmod>2021-05-22T02:53:42+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/tag/data-science</loc>
+<loc>https://www.insidedataworld.com/tag/data-science</loc>
 <lastmod>2021-05-22T02:53:42+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mohit-pahuja.github.io/author/mohit-pahuja</loc>
+<loc>https://www.insidedataworld.com/author/mohit-pahuja</loc>
 <lastmod>2021-05-22T02:53:42+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
