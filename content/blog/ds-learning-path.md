@@ -1,7 +1,7 @@
 title: Zero to Hero in Data Science
-date: 2021-03-20
-author: Mohit Pahuja and Abhishek Dutt
-tags: Machine Learning, AI
+date: 2021-03-21
+author: Mohit Pahuja
+tags: Machine Learning, AI, Data Science
 slug: ds-learning-path
 og_image: assets/images/ds_background.png
 
