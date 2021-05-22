@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Zutrinken'
-SITENAME = u'Attila Demo'
-SITESUBTITLE = u'Blog description here.'
+AUTHOR = u'Mohit Pahuja'
+SITENAME = u'Inside Data World'
+SITESUBTITLE = u'Yet Another Data Blog'
 SITEURL = ''
 
 PATH = 'content'
@@ -120,7 +120,7 @@ THEME = 'attila'
 # HEADER_COLOR = 'black'
 
 # To set background image for the home page.
-HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+HOME_COVER = 'assets/images/cs_image.jpg'
 
 # Custom Header
 

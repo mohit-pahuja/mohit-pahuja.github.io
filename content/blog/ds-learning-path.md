@@ -1,4 +1,4 @@
-title: Zero to Hero in Data Science
+title: From Zero to Hero in Data Science (Learning Path)
 date: 2021-03-21
 author: Mohit Pahuja
 tags: Machine Learning, AI, Data Science
